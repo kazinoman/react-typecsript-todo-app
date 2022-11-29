@@ -1,8 +1,7 @@
 # react-typecsript-todo-app
 
 ## Technology in use
-
-## React, Typescipt, Vite
+    React, Typescipt, Vite
 
 # Task
   add todo.
