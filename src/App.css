@@ -1,0 +1,12 @@
+.body {
+  width: 100vw;
+  height: 100vh;
+  font-family:'Neucha', cursive;
+  background-color: #2f74c0;
+}
+
+.flex {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
